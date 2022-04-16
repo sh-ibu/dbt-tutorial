@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hazel-goal-347312",
+  "private_key_id": "c324ffd332649b7783902371de168f9f72f7caaa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDaCRjYF5/AMOeT\nFKLColu5SCQpjZuomXuitR3yNmDiA4LUnKb2+vwZb3aWycj5Eh27PfA/6IPBhbih\nDn2DEAuPKNnOY/ttAngoKtGDFyi9NQtRKG0HHNL4FjtCELxeGOshlxB9BeP6oPEs\nOm93LHPW3qa2sHbGaP49ZTD+T1cik5VnC/wS0dhMdc6a/l5HzPWSOAzIJwyrXi5y\nfq0RzwMY6Bf4wT8jy7QlO/acBJJjnECTPS1cuNs3KcusvCdvbcRUQM/5lN3BfNLx\nhJArAOQTPXNshavjw/giI6hTLxCN3Gd+NEho1o9d4FVj9H8Nl4FWI5nmYW1BbzJO\nNhy1bAuRAgMBAAECgf8uqvpLuvp//1V9aYdL5gi6qTWnTGG268BB7xui9zcsF2fw\nXTR45s7nk5vsNJbkizSEm4TjOq37XQnZsRNOg7geN6cnkzsZaoLNbtuD4ITC2dAU\nMw03WrunNFVBqBzhKqCWRdQlISDO/9e17G48lHazGV4p6JJ8DJjiKajKrKkkUfof\nEAe9UmIO8NVx+lHyZauzfa+H+hmcOY3bBO87QnZuYsP4vzlJlyO8DllDSVmH8TlU\nPD6WuG8ko6DRqOcrWL1V5Hw9VWGvXemiNOwv6nUJwos7YIq3+Jbyqt9HfWzbKGd+\nyoc+gptKzPJmuodLTPdtTR/pIaWL6MYvd2i2Tk0CgYEA+ycf6jlTA3PlxQaV0gtw\n5Nf9YxBRnXYUaJMUu3MC5rMD4XqPtNM+OEbTOYFv1PEok0Nm0neyv3xVKert1vux\nf1FglJtiCDuMEEUAX1y4QHU0y7wAEbzyyP8lWftL0ZlsSA/Cti06a4d94sPPJZPs\nzBMeRNT6b5lEUU7E+0i9DH0CgYEA3j5ZYoKWNWDZxE9b6tNYrsrX71v+PrRgp3EG\nSrJqx9C5xCm3J72+f8BCrEeYBM6tiIqroNBBl6edcI+rpePXhkAdyxvJZwgdupyC\nPVQTI4ahf+NnclzDI4LuxXlFPypVQbLBQU1vkwDydqHM+qI8IFBCiFZMIvQC2Sd8\npZeCK6UCgYAuqkFa0tXi0VkC98tEoM2UJ7G0A2c2u6blG1cB0Ufbt61j6tLixVFN\nQZOjnrI5valNW3uyZX036REl3bnddRywzF0Gn6xiXTYUG84K6f5uM5jgtgjJQvNV\nd1roUjHvOvOMnCkQkmzFaAJy7PEDSW35KSA5p9z0eWThOqKNEiHWPQKBgAbBTmY4\nIeitcPEOmHSix+dIMxgLa8bsJKPyQ4axtZ0tMvhLbE3A7rFjXqNt6aj7vzqPPHg+\n3D+H0LlDJKx+KGbkPAOYbJ69GGo7p5nFnG9QAEiq2NIZD7VcnXVTIk+xMbY1gLpD\naEjHlpcUg+56T+mLhvot5VKKqCuBj8BYwpQhAoGAGJTl3mpIWmk2esdWWxgIVtyc\nwFQI487BaOknlY0jKPQ7vTky6G3bZrR6ODzXa2lEhIBwyTgRhJ/kbSyHaqdv4bVs\nsIq8ybtjDZ/yRrWjOpR7+emFxuahrrLcDU9vO3fE8apYwmaZr6D8d9eGNZUZobfU\nWMDWtWnxsvRXhOx5gF4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@hazel-goal-347312.iam.gserviceaccount.com",
+  "client_id": "118338432391740137243",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40hazel-goal-347312.iam.gserviceaccount.com"
+}
